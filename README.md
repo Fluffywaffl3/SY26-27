@@ -1,2 +1,2 @@
 # SY26-27
-This is my portfolio
+This is my portfolio for Python.
